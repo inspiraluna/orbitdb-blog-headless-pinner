@@ -1,0 +1,16 @@
+{
+  "name": "headless-orbitblog-pinner",
+  "version": "0.0.1",
+  "description": "Should pin databases from orbitdb-blog project with a headless browser",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.2.0"
+  }
+}
